@@ -1,1 +1,6 @@
-# azure_data_factory
+# ADF Syntax
+
+```
+in(['',''],COL)
+!in(['',''],COL)
+```
